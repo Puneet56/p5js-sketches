@@ -4,6 +4,11 @@ data = [
 		link: './sine-wave/sine-wave.html',
 		code: 'https://editor.p5js.org/Puneet56/sketches/gEoDrL0b2',
 	},
+	{
+		name: 'Rotating Circle Animation',
+		link: './rotating-circle/rotating-circle.html',
+		code: 'https://editor.p5js.org/Puneet56/sketches/xYvyCU9sE',
+	},
 ];
 
 let list = document.querySelector('.projects-list');
